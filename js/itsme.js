@@ -9,7 +9,3 @@ $('a').click(function(){
 	}
 	return true;
 });
-
-$('.navbar-collapse a').click(function(event) {
-	$('.navbar-toggle').click();
-});
