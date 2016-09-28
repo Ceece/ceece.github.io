@@ -180,3 +180,17 @@ body.modal-open > nav {
 .social-icons .fa-line:before {
     content: "LINE";
 }
+
+.social-icons .fa-freecodecamp {
+    background-color: darkgreen;
+}
+
+.social-icons .fa-freecodecamp:after {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    content: "";
+    background: url(./../images/freecodecamp.png) no-repeat 0 0;
+    background-size: 100%;
+    background-position-y: 12px;
+}
