@@ -176,6 +176,7 @@ body.modal-open > nav {
     font-family: Roboto;
     font-size: 1.2em;
     font-weight: bold;
+    line-height: 57px;
 }
 .social-icons .fa-line:before {
     content: "LINE";
